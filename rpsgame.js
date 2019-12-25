@@ -30,6 +30,6 @@ function computerPlay() {
     }
   }
   
-  const playerSelection = prompt('Rock, Paper, or Sciccors?')
+  const playerSelection = 
   
   playGame(playerSelection)
